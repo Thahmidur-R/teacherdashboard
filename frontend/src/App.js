@@ -1,6 +1,4 @@
 import { ColourModeContext, useMode } from "./theme";
-//CssBaseline resets css to the defaults we'll probalby need
-//themeprovider gives ability to pass on the themes to material ui
 import { CssBaseline, ThemeProvider } from "@mui/material"; 
 import {Routes, Route} from "react-router-dom";
 import Topbar from "./scenes/global/Topbar";
@@ -11,15 +9,7 @@ import ClassPage from "./scenes/classes";
 
 
 import Calendar from "./scenes/calendar";
-/*
-import Contacts from "./scenes/contacts";
-import Dashboard from "./scenes/dashboard";
-import Form from "./scenes/form";
 
-import Dashboard from "./scenes/dashboard";
-import Dashboard from "./scenes/dashboard";
-import Dashboard from "./scenes/dashboard";
-*/
 
 
 function App() {
@@ -44,12 +34,6 @@ const [theme, colourMode] = useMode();
 
   <Route path="/calendar" element={<Calendar />} />
 
-{
-  // <Route path="/contacts" element={<Contacts />} />
-}
-{
-  // <Route path="/form" element={<Form />} />
-}
       </Routes>
      </main>
     </div>
