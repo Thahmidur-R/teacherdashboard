@@ -1,4 +1,4 @@
-#Teacher Dashboard app
+# Teacher Dashboard app
 
 This project was completed to enhance my React skills and create a visually appealing website. It serves as a demonstration of my proficiency in frontend development with React.
 
@@ -22,4 +22,4 @@ The program starts at the homepage of a user, who is imagined to be a teacher. O
 The program has a light and dark mode setting and contains a collapsable sidebar created using react-pro-sidebar.
 
 ![Screenshot of dashboard](screenshots/dashboardss.png)
-![Screenshot of dashboard showing light mode and sidebar collapsed](screenshots/dashboardlightss)
+![Screenshot of dashboard showing light mode and sidebar collapsed](screenshots/dashboardlightss.png)
