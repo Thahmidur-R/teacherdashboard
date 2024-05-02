@@ -10,7 +10,7 @@ This project was completed to enhance my React skills and create a visually appe
 
 ## Description
 
-This project is a web application built with React.js, aiming to showcase my abilities in creating modern and dynamic user interfaces. By using React, I aimed to create a smooth and interactive user experience while demonstrating proficiency in managing state, handling user inputs, and organizing components effectively. Material-UI components were used for consistent styling, including the datagrid to display data in a tabular format. React Pro Sidebar was used to build the sidebar and full calendar was used to build a calendar. 
+This project is a web application built with React.js, aiming to showcase my abilities in creating modern and dynamic user interfaces. By using React, I aimed to create a smooth and interactive user experience while demonstrating proficiency in managing state, handling user inputs, and organizing components effectively. Material-UI components were used for consistent styling, including the datagrid to display data in a tabular format. React Pro Sidebar was used to build the sidebar,and FullCalendar was used to integrate a calendar feature. 
 
 The backend of this application is powered by Node.js, providing the necessary server-side functionalities. I utilized Node.js to handle requests, manage data flow, and ensure the communication between the frontend and the database.
 
