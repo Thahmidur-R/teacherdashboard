@@ -4,13 +4,13 @@ This project was completed to enhance my React skills and create a visually appe
 
 ## Technologies Used
 
-- **Frontend**: React.js
+- **Frontend**: React.js 
 - **Backend**: Node.js
 - **Database**: PostgreSQL
 
 ## Description
 
-This project is a web application built with React.js, aiming to showcase my abilities in creating modern and dynamic user interfaces. By using React, I aimed to create a smooth and interactive user experience while demonstrating proficiency in managing state, handling user inputs, and organizing components effectively.
+This project is a web application built with React.js, aiming to showcase my abilities in creating modern and dynamic user interfaces. By using React, I aimed to create a smooth and interactive user experience while demonstrating proficiency in managing state, handling user inputs, and organizing components effectively. Material-UI components were used for consistent styling, including the datagrid to display data in a tabular format. React Pro Sidebar was used to build the sidebar and full calendar was used to build a calendar. 
 
 The backend of this application is powered by Node.js, providing the necessary server-side functionalities. I utilized Node.js to handle requests, manage data flow, and ensure the communication between the frontend and the database.
 
@@ -35,4 +35,10 @@ The classes option on the side bar takes the user to a page where they can view 
 The app contains a ToDo list feature. Users can list down tasks that need to be completed. They are able to delete tasks or mark them as complete. Users can also view completed tasks by clicking on the completed section.
 
 ![Screenshot of ToDo List page](screenshots/todolistss.png)
+
+### Calendar
+
+There is also a page to view a calendar created using fullCalendar. Using this, a user can save events onto a calendar. They are able to drag and drop their events around and also delete them. 
+
+![Screenshot of Calendar page](screenshots/calendarss.png)
 
