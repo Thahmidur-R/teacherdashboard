@@ -48,7 +48,7 @@ const ScoreAttendanceScatter = ({ data }) => {
                 min:80,
                 title: {
                     display: true,
-                    text: 'Attendance'
+                    text: 'Attendance (%)'
                 }
             }
         },
