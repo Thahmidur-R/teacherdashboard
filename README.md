@@ -23,3 +23,16 @@ The program has a light and dark mode setting and contains a collapsable sidebar
 
 ![Screenshot of dashboard](screenshots/dashboardss.png)
 ![Screenshot of dashboard showing light mode and sidebar collapsed](screenshots/dashboardlightss.png)
+
+### View Classes feature
+
+The classes option on the side bar takes the user to a page where they can view all the classes they teach. By clicking on a class they are then able to view information from the database about the student in the selected class. Currently the student's attendance and scores are the only recorded metrics. These are stored in a table called student_classes, which takes a student_id and class_id that references the student table (storing student name and id) and the class table (stores class name, the teacher, class id and subject), and stores the corresponding score and attendance. Thus it is easy to add metrics that you wish to be displayed as you only need to add a column to this table and it will be displayed automatically. 
+
+![Screenshot of classes page after selecting a class](screenshots/classesSS.png)
+
+### ToDo List
+
+The app contains a ToDo list feature. Users can list down tasks that need to be completed. They are able to delete tasks or mark them as complete. Users can also view completed tasks by clicking on the completed section.
+
+![Screenshot of ToDo List page](screenshots/todolistss.png)
+
